@@ -2,16 +2,15 @@
 
 [![MastterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOXOPt1UATkt29hd_Pp06ql6rqiGj_JWCQ5Q&s)]
 <h1 align="center">Hi 👋, I'm Victor Oyetoro</h1>
-<h3 align="center">An upcoming product designer with the passion and the drive to become one of the best at my field,, though mildly experienced my skill and determination speak to what i am willing to put in for success</h3>
+<h3 align="center">As an aspiring product designer with a strong passion for creating innovative solutions, I am driven to excel in my field. Although I am in the early stages of my career, my skills and determination demonstrate my commitment to achieving success. I am eager to leverage my abilities and dedication to deliver high-quality designs that meet the needs of users and exceed expectations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victor-oyetoro89&label=Profile%20views&color=0e75b6&style=flat" alt="victor-oyetoro89" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victor-oyetoro89" alt="victor-oyetoro89" /></a> </p>
 
-[Victor Oyetoro](www.linkedin.com/in/victor-oyetoro-44a011251) Is an up and coming product designer with a year plus worth of learning experience, before product design he was into web design which he has been in practice for 4+ years, building and gaining various skill and giving him chances to learn new things and to also implement them. He has ccontributed to the production of a music website which was a project done by him and his mates proving his expansive knowledge and creativity.
+[Victor Oyetoro](www.linkedin.com/in/victor-oyetoro) As an emerging product designer with a strong foundation in web design, I bring over 4 years of experience in building and delivering digital solutions. My background in web design has equipped me with a versatile skill set, allowing me to adapt to new challenges and opportunities. Notably, I contributed to the development of a music website, showcasing my ability to collaborate effectively with others and leverage my knowledge and creativity to drive project success. With a year of focused experience in product design, I am excited to apply my skills and expertise to create innovative and user-centered products
 
-
-- 🔭 I’m currently working on [A blank website with a login and sign up page, which is still in the workings](https://1drv.ms/f/c/05b5a1b793186d1b/EvIWV3BSvxxMszROL_fHCFoBPmwnY10avxpN8YBNP1Epkg?e=0ad4J4)
+- 🔭 I’m currently working on [A blank website with a login and sign up page, which is still undergoing development](https://1drv.ms/f/c/05b5a1b793186d1b/EvIWV3BSvxxMszROL_fHCFoBPmwnY10avxpN8YBNP1Epkg?e=0ad4J4)
 
 - 🌱 I’m currently learning **Product design, ui/ux design**
 
@@ -23,7 +22,7 @@
 
 - 📄 Know about my experiences [https://1drv.ms/w/c/05b5a1b793186d1b/EZgoVtp3MjxIszkhW8PKbuoBDwvE9m1JhnqUdBTJo23hBw?e=LX8JjG](https://1drv.ms/w/c/05b5a1b793186d1b/EZgoVtp3MjxIszkhW8PKbuoBDwvE9m1JhnqUdBTJo23hBw?e=LX8JjG)
 
-- ⚡ Fun fact **I'm Actually a very funny person, well i think i am. Also i watch anime.. please don't butcher me for this**
+- ⚡ Fun fact **Outside of my professional pursuits, I enjoy exploring my creative side through humor and appreciate the diverse world of anime. I'm confident that my unique perspective and sense of humor can bring a refreshing dynamic to my work and interactions.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
