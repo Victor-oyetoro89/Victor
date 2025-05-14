@@ -8,6 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victor-oyetoro89" alt="victor-oyetoro89" /></a> </p>
 
+[Victor Oyetoro](www.linkedin.com/in/victor-oyetoro-44a011251) Is an up and coming product designer with a year plus worth of learning experience, before product design he was into web design which he has been in practice for 4+ years, building and gaining various skill and giving him chances to learn new things and to also implement them. He has ccontributed to the production of a music website which was a project done by him and his mates proving his expansive knowledge and creativity.
+
+
 - 🔭 I’m currently working on [A blank website with a login and sign up page, which is still in the workings](https://1drv.ms/f/c/05b5a1b793186d1b/EvIWV3BSvxxMszROL_fHCFoBPmwnY10avxpN8YBNP1Epkg?e=0ad4J4)
 
 - 🌱 I’m currently learning **Product design, ui/ux design**
