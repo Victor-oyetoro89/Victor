@@ -1,8 +1,8 @@
 # Victor
-MY-EXP
+
 [![MastterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOXOPt1UATkt29hd_Pp06ql6rqiGj_JWCQ5Q&s)]
 <h1 align="center">Hi 👋, I'm Victor Oyetoro</h1>
-<h3 align="center">An upcoming product designer with the passion and the drive to become one of the best at my field</h3>
+<h3 align="center">An upcoming product designer with the passion and the drive to become one of the best at my field,, though mildly experienced my skill and determination speak to what i am willing to put in for success</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victor-oyetoro89&label=Profile%20views&color=0e75b6&style=flat" alt="victor-oyetoro89" /> </p>
 
